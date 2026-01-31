@@ -1,6 +1,6 @@
 # 👋 Hola, soy José Rocha
 
-🚀 Desarrollador Full Stack | Next.js | Node.js | TypeScript | PostgreSQL | React.js
+🚀 Desarrollador Full Stack | Next.js | Node.js | TypeScript | PostgreSQL | React.js              
 💡 Apasionado por crear productos digitales, marketplaces y soluciones reales basadas en tecnología
 
 - 🔭 Actualmente trabajando en proyectos con **Next.js, Node.js y PostgreSQL**
