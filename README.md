@@ -4,7 +4,7 @@
 💡 Apasionado por crear productos digitales, marketplaces y soluciones reales basadas en tecnología
 
 - 🔭 Actualmente trabajando en proyectos con **Next.js, Node.js y PostgreSQL**
-- 🌱 Aprendiendo **arquitectura backend, escalabilidad y buenas prácticas**
+- 🌱 **arquitectura backend, escalabilidad y buenas prácticas**
 - 💼 Interesado en **startups, marketplaces y productos SaaS**
 - 🤖 Explorando el uso de **Inteligencia Artificial aplicada a productos reales**
 - 📍 Colombia | Remoto
